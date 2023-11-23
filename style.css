@@ -9,3 +9,8 @@ html {
   flex-direction: column;
   align-items: center;
 }
+
+input {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
